@@ -1,0 +1,9 @@
+discord_token
+bot_config.py
+venv/
+__pycache__/
+*~
+*.swp
+.*.swp
+*.swo
+*tar.gz
